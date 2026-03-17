@@ -3,5 +3,6 @@ Uma ferramenta feita para mudar seu wallpaper dependendo de qual aplicação / J
 
 
 # Requisitos:
-Python 3.10
-´´´ Pip install psutil ´´´
+  Python 3.10.
+
+`Pip install psutil `
